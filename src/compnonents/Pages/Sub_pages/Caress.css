@@ -1,0 +1,20 @@
+.careers-background {
+    background-image: url("../../../assets/022.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 316px;
+    margin-top: -8px;
+}
+
+.upload_image {
+    width: 160px;
+    height: 186px;
+    margin: 7px auto;
+    background: url("../../../assets/022.png") no-repeat;
+    display: block;
+}
+
+.upload_image:hover {
+    background: url("../../../assets/023.png") no-repeat;
+    cursor: pointer;
+}
